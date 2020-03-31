@@ -1,0 +1,5 @@
+C:\Users\Spysi\source\repos\Reflections_Plugin\Reflections_Plugin\bin\Debug\Reflections_Plugin.dll
+C:\Users\Spysi\source\repos\Reflections_Plugin\Reflections_Plugin\bin\Debug\Reflections_Plugin.pdb
+C:\Users\Spysi\source\repos\Reflections_Plugin\Reflections_Plugin\obj\Debug\Reflections_Plugin.dll
+C:\Users\Spysi\source\repos\Reflections_Plugin\Reflections_Plugin\obj\Debug\Reflections_Plugin.pdb
+C:\Users\Spysi\source\repos\Reflections_Plugin\Reflections_Plugin\obj\Debug\Reflections_Plugin.csproj.CoreCompileInputs.cache
